@@ -17,7 +17,7 @@ For example
  [any_path]/my_own_classifier/data/moto
  [any_path]/my_own_classifier/data/bus
 ```
- and then put your image on it. 
+ and then put your images in it. 
  This "classifier" directory will have your samples but also trained classifier after execution of "train.sh". 
 
 ##Train process
